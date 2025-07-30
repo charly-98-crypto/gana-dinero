@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.login-box, .register-box {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    max-width: 400px;
+    margin: 80px auto;
+}
+
+.form-control {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+}
+
+.form-control::placeholder {
+    color: #ccc;
+}
+
+.btn-custom {
+    background-color: #00ff88;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+a:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 18px #00f0ff;
+}
