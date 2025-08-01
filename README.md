@@ -2,6 +2,8 @@
 ## CARLOS ALBERTO ALVAREZ  SALDARRIAGA
 ### 100 PALABRAS DE LO QUE HACE SU APP
 
+Gana Dinero es una plataforma innovadora donde los usuarios pueden obtener ingresos extra realizando tareas sencillas como ver videos, seguir cuentas en redes sociales, responder encuestas y más. Al registrarse, reciben un bono de bienvenida. Cada tarea completada suma dinero al monedero del usuario. Para retirar las ganancias, deben activar una suscripción. Además, la app incluye sistemas de inversión, referidos y promociones exclusivas. Su diseño es moderno, intuitivo y estilo red social. Es ideal para jóvenes y adultos que buscan oportunidades digitales desde casa. Todo está respaldado con términos y condiciones legales para mayor seguridad.
+
 
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
